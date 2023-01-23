@@ -1,0 +1,43 @@
+html {
+  
+}
+
+.regi_form_list dl{
+  display: table;
+  float: left;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+    }
+.registration_wrap dl dt {
+  text-indent: 0px;
+  width: 250px;
+  font-weight: bold;
+  padding: 20px 0 0 20px;
+  position: relative;
+}
+.registration_wrap dl dt span {
+  text-indent: 0;
+  position: absolute;
+  font-weight: normal;
+  right: 2%;
+  top: 18px;
+  font-size: 11px;
+  display: block;
+  padding: 2px 5px;
+  background: #E81616;
+  border-radius: 3px;
+  color: #fff;
+  border-spacing: 8px;
+}
+.registration_wrap dl dd {
+  width: 71%;
+  display: inline-block;
+  vertical-align: top;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  margin: -24px 0px 0px 0px;
+  padding-left: 270px;
+  min-height: 1.5em;
+}
